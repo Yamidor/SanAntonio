@@ -59,5 +59,10 @@ module.exports = {
     compress: true,
     historyApiFallback: true,
     port: 3005,
+  },
+  performance: {
+    hints: false,
+    maxEntrypointSize: 512000,
+    maxAssetSize: 512000
   }
 };
