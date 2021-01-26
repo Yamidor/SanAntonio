@@ -10,7 +10,7 @@ const Vision = () => {
         </div>
         <div className="col-7">
             <div className="title mt-3">
-              <h1>Visión</h1>
+              <h1>Visión is</h1>
             </div>
             <div className="content">
               <p className="text-justify">La INSTITUCIÓN EDUCATIVA SAN ANTONIO DE PADUA con el apoyo de todos los integrantes de la comunidad educativa, ofrecerá un excelente servicio formativo, con calidad que permita a sus usuarios convertirse en lideres competentes, a portantes al desarrollo social, económico, científico, Técnica y Ecológico, artístico y cultural del país.</p>
