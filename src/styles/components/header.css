@@ -1,0 +1,14 @@
+.logo {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.bg-light {
+  background: linear-gradient(to top, #07ade9, #84c8e0);
+}
+.navbar-nav {
+  font-family: "Pathway Gothic One", sans-serif;
+  font-family: "Shadows Into Light", cursive;
+  font-size: 30px;
+}
